@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🌱 Currently learning **Java Spring Boot**, **Microservices** and **Back-end Development**  
 - ☁️ Interested in **APIs REST, Cloud (AWS)** and **Serverless Architecture**  
 - 💡 Always open to collaborate on new projects and ideas  
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/reasilva/ )
+- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://www.linkedin.com/in/renato-silva-5477a295/)
 - 🗣️ Languages: Português | English
 
 - ![Renato's GitHub stats](https://github-readme-stats.vercel.app/api?username=reasilva&show_icons=true&theme=dracula&hide_title=true&hide_rank=true )
